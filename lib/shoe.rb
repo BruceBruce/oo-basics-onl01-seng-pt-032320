@@ -12,4 +12,4 @@ class Shoe
   
 end
 
-shoe.new()
+shoe.new((condition = "new"))
