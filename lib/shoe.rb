@@ -13,5 +13,5 @@ class Shoe
   
 end
 
-shoe.new
-shoe.cobble
+Shoe.new
+Shoe.cobble
