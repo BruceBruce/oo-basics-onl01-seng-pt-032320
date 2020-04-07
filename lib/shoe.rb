@@ -15,3 +15,4 @@ end
 
 Shoe.new
 Shoe.cobble
+Shoe.condition
